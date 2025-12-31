@@ -14,4 +14,5 @@ Score tracking system
 Smooth animations and game loop handling
 
 🛠️ Tech Stack
-  Made using ReactJS, ThreeJS,
+  Made using ReactJS, ThreeJS
+  
